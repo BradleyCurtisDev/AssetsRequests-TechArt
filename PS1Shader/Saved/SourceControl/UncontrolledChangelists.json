@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/bradl/OneDrive/Desktop/PS1Shader/Content/PS1Shader/PP_Ps1Shader.uasset",
+				"C:/Users/bradl/OneDrive/Desktop/PS1Shader/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/BL/WB7S47W2IE4F23EZ9SLQ1B.uasset",
+				"C:/Users/bradl/OneDrive/Desktop/PS1Shader/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/96/JEF6NHSL8XXSCQTOUZMFM6.uasset",
+				"C:/Users/bradl/OneDrive/Desktop/PS1Shader/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/CC/0JTUNI8VQLSXUN7CSUXHGJ.uasset",
+				"C:/Users/bradl/OneDrive/Desktop/PS1Shader/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/QY/FSMNL3KLM133J5VKZAU0BE.uasset",
+				"C:/Users/bradl/OneDrive/Desktop/PS1Shader/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/GF/J102E0WGOBDQUERKTJVJ00.uasset",
+				"C:/Users/bradl/OneDrive/Desktop/PS1Shader/Content/PS1Shader/PP_Ps1Shader_Inst.uasset",
+				"C:/Users/bradl/OneDrive/Desktop/PS1Shader/Content/Static/PS1Shader/PP_Ps1Shader_Inst.uasset",
+				"C:/Users/bradl/OneDrive/Desktop/PS1Shader/Content/Static/PS1Shader/PP_Ps1Shader.uasset"
+			]
+		}
+	]
+}
